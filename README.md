@@ -48,7 +48,7 @@ After training, the Decision Tree model was used to predict network traffic clas
 ### Sample Predictions
 A few predicted outputs from the model on the test data:
 
-![Prediction Screenshot](prediction-reult.png)
+![Prediction Screenshot](prediction-result.png)
 
 - ✅ *Predicted Labels:* Shows whether each traffic record is classified as normal or attack.
 - 📊 *Prediction Accuracy:* The model achieved high accuracy with balanced precision and recall.
